@@ -5,3 +5,5 @@
 **Diferencia entre lociones y perfumes**
 
 *__Los perfumes__ son duraderos, ideales para ocasiones especiales donde se busca dejar una impresión perdurable. __Las colonias__ son más ligeras y frescas, perfectas para el uso diario y climas cálidos. Las lociones ofrecen una opción sutil para la hidratación y una fragancia suave.*
+
+![imagen](https://http2.mlstatic.com/D_NQ_NP_668444-MCO41112874563_032020-O.webp)
