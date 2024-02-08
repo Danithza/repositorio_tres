@@ -6,3 +6,8 @@
 *__El origen de la televisión__ se remonta a finales del siglo XIX, cuando varios científicos comenzaron a investigar sobre la transmisión de imágenes a través de ondas electromagnéticas. En 1927 Philo Farnsworth logró transmitir una imagen en movimiento, lo que dio inicio a la era de la televisión.*
 
 [Youtube.com](https://youtu.be/tBDfG0UA6M0)
+
+## Ventajas y desventajas tiene el televisor
+- Ventajas: gran capacidad de alcance y más libertad al contar con medios audiovisuales.
+
+- Desventajas: el precio suele ser muy alto y el mensaje puede perderse entre otros mensajes comerciales.
