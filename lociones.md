@@ -7,3 +7,7 @@
 *__Los perfumes__ son duraderos, ideales para ocasiones especiales donde se busca dejar una impresión perdurable. __Las colonias__ son más ligeras y frescas, perfectas para el uso diario y climas cálidos. Las lociones ofrecen una opción sutil para la hidratación y una fragancia suave.*
 
 ![imagen](https://http2.mlstatic.com/D_NQ_NP_668444-MCO41112874563_032020-O.webp)
+
+## Características que poseen las lociones
+
+*Las lociones son económicas y excelentes para el cuidado de la piel. Es una emulsión de aceite en agua y tiene un mayor contenido de agua que las cremas o ungüentos. Esta particularidad lo hace fácil de aplicar, perfecto para cubrir áreas más extensas del cuerpo.*
